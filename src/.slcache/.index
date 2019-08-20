@@ -5043,3 +5043,6 @@ n:397:org/codehaus/groovy/grails/web/mapping/UrlMappings
 n:1408:java_io_File$getCanonicalPath$9
 n:583:groovyjarjarantlr/TokenStreamRecognitionException
 n:523:groovyjarjarantlr/TokenStreamException
+n:2188:org/codehaus/groovy/grails/commons/GrailsApplication$addArtefact$0
+n:3545:org/codehaus/groovy/grails/plugins/web/GroovyPagesGrailsPlugin$_closure5$_closure26
+n:2324:org/codehaus/groovy/grails/plugins/web/GroovyPagesGrailsPlugin$_closure5$_closure26$_closure27

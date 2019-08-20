@@ -16,7 +16,7 @@
 
 <header>
 	<nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-dark rounded">
-		<a class="navbar-brand" href="#">Grails Online Contacts Book</a>
+		<g:link controller="member" action="index" class="navbar-brand">Grails Online Contacts Book</g:link>
 		<button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse"
 				data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false"
 				aria-label="Toggle navigation">
