@@ -5038,3 +5038,8 @@ n:2465:script15662225328361650954174$_run_closure3$_closure6
 n:2663:script15662225328361650954174$_run_closure3$_closure6$_closure9
 n:1887:org/codehaus/groovy/grails/cli/interactive/InteractiveMode$getCurrent
 n:2408:BuildConfig$_run_closure1$_closure4
+n:6916:org/codehaus/groovy/grails/web/mapping/UrlMappingsHolderFactoryBean
+n:397:org/codehaus/groovy/grails/web/mapping/UrlMappings
+n:1408:java_io_File$getCanonicalPath$9
+n:583:groovyjarjarantlr/TokenStreamRecognitionException
+n:523:groovyjarjarantlr/TokenStreamException
