@@ -8,6 +8,8 @@
 //= require jquery-3.4.1.min
 //= require bootstrap
 //= require bootstrap.bundle
+//= require ocb
+//= require ocb.message.box
 //= require_tree .
 //= require_self
 

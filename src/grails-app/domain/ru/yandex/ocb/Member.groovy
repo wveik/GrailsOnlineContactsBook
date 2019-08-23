@@ -2,7 +2,7 @@ package ru.yandex.ocb
 
 class Member {
 
-    Integer id
+    //Integer id
     String firstName
     String lastName
     String email
